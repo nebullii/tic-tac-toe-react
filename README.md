@@ -102,10 +102,6 @@ src/
    ```
 4. Open a pull request on the main repository.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 Enjoy the game and happy coding!
